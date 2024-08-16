@@ -15,7 +15,7 @@ def main():
         print("Usage: python script_name.py <matrix_size> <data_type: int|double>")
         sys.exit(1)
 
-    # Get the matrix size and data type from command-line arguments
+    
     N = int(sys.argv[1])
     data_type = sys.argv[2]
 
