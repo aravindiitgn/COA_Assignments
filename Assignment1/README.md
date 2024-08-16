@@ -1,4 +1,4 @@
-# COA_Assignments
+# COA_Assignment1
 <h3>
 <ul>
 <li><a>comparison_sys_vs_mult.py</a> file is used to compare the sys time and the multiplication execution time given a number system and a language across all N sizes<h3></li>
